@@ -7,7 +7,7 @@ Website Startup penyewaan kendaraan berbasis Flask.
 - Landing Page
 ## Landing Page
 
-![Landing Page](screenshots/Landing Page Section 1.png)
+![Landing Page](screenshots/Landing_Page_Section_1.png)
 - Login
   ## Login
 
