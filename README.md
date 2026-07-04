@@ -8,38 +8,41 @@ Website Startup penyewaan kendaraan berbasis Flask.
 ## Landing Page
 
 ![Landing Page](screenshots/Landing%20Page%20Section%201.png)
+## Landing Page (Section 2)
+
+![Landing Page Section 2](screenshots/Landing%20Page%20Section%202.png)
 - Login
-  ## Login
+ ## Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 - Register
-  ## Register
+## Register
 
-![Register](screenshots/register.png)
+![Register](screenshots/Register.png)
 - Dashboard User
   ## Dashboard User
 
-![Dashboard User](screenshots/dashboard-user.png)
+![Dashboard User](screenshots/Dashboard.png)
 - Dashboard Admin
-  ## Dashboard Admin
+## Dashboard Admin
 
-![Dashboard Admin](screenshots/dashboard-admin.png)
+![Dashboard Admin](screenshots/Admin.png)
 - Booking Kendaraan
-  ## Booking
+  ## Booking Kendaraan
 
-![Booking](screenshots/booking.png)
+![Booking](screenshots/Booking.png)
 - History Booking
-  ## History Booking
+## Riwayat Booking
 
-![History](screenshots/history.png)
+![History](screenshots/History.png)
 - Profil User
-  ## Profile
+ ## Profil User
 
-![Profile](screenshots/profile.png)
+![Profile](screenshots/Profile.png)
 - Vehicles
   ## Daftar Kendaraan
 
-![Vehicles](screenshots/vehicles.png)
+![Vehicles](screenshots/Vehicles.png)
 
 ## Teknologi
 
