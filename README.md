@@ -1,7 +1,8 @@
 # RentRide
 ![Logo](static/images/Logo.png)
 
-RentRide merupakan startup berbasis teknologi yang menyediakan layanan penyewaan kendaraan seperti motor dan mobil secara online melalui website maupun aplikasi mobile
+Sewa Motor & Mobil Jadi Lebih Mudah
+Platform digital penyewaan kendaraan terpercaya dengan proses booking cepat, aman, dan transparan.
 
 ## Fitur
 # Screenshot Aplikasi
