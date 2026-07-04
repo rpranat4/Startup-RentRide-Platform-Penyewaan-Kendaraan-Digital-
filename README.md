@@ -1,6 +1,6 @@
 # RentRide
 
-RentRide adalah aplikasi penyewaan kendaraan berbasis web.
+Website Startup penyewaan kendaraan berbasis Flask.
 
 ## Fitur
 
@@ -10,19 +10,20 @@ RentRide adalah aplikasi penyewaan kendaraan berbasis web.
 - Dashboard User
 - Dashboard Admin
 - Booking Kendaraan
-- Riwayat Booking
+- History Booking
 - Profil User
 
 ## Teknologi
 
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap 5
 - JavaScript
-- Python Flask
+- Flask
 - SQLite
 
-## Developer
+## Cara Menjalankan
 
-Ryan Ubay
-Universitas ....
+pip install -r requirements.txt
+
+python app.py
