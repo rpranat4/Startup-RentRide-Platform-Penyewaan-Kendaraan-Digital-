@@ -1,5 +1,5 @@
 # RentRide
-
+![Logo](static/images/Logo.png)
 Website Startup penyewaan kendaraan berbasis Flask.
 
 ## Fitur
