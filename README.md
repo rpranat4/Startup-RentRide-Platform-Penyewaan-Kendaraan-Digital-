@@ -1,6 +1,7 @@
 # RentRide
 ![Logo](static/images/Logo.png)
-Website Startup penyewaan kendaraan berbasis Flask.
+
+RentRide merupakan startup berbasis teknologi yang menyediakan layanan penyewaan kendaraan seperti motor dan mobil secara online melalui website maupun aplikasi mobile
 
 ## Fitur
 # Screenshot Aplikasi
