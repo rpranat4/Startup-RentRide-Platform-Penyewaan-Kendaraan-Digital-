@@ -2,6 +2,7 @@
 ![Logo](static/images/Logo.png)
 
 Sewa Motor & Mobil Jadi Lebih Mudah
+
 Platform digital penyewaan kendaraan terpercaya dengan proses booking cepat, aman, dan transparan.
 
 ## Fitur
